@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 *   🌍  I'm based in Russia, Irkutsk
-*   ✉️  You can contact me at [chillecosta@gamil.com](mailto:chillecosta@gamil.com)
+*   ✉️  You can contact me at [chillecosta@gmail.com](mailto:chillecosta@gmail.com)
 
 <!---
 costachille/costachille is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
