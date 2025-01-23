@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Konstantin Popov
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Привет, я Константин Попов!
 ========================================================================================================================================
 
 Web Developer
 -------------
+*   🫡  Фронтенд-инженер самоучка
+*   💻  1+ года опыта
 
-*   🌍  I'm based in Russia, Irkutsk
-*   ✉️  You can contact me at [chillecosta@gmail.com](mailto:chillecosta@gmail.com)
 
 <!---
 costachille/costachille is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
